@@ -1,3 +1,3 @@
 # AndroidViewToys
 android view toys:include basic knowledge、custom view and so on
-![alt text](http://ubmcmm.baidustatic.com/media/v1/0f0005yYIsGLBGDGfPud10.png)
+![alt text](http://my.pfile.cn/dcmx9p.gif?e=1446792435&token=MB-ilqGkOcaGgP51p-LhTI4QBVBXJCXFTHo0hDLu:nHqA-_kinoaP3ju91eOJfUgZAeE=)

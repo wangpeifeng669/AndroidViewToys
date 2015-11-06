@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Toys</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_demos">No demos</string>
+    <string name="display_map_draw_view">显示画板</string>
+
+    <string name="map_draw">地图电子围栏</string>
+    <string name="map_draw_description">介绍如何创建一个基本地图</string>
+    <string name="osm_map">OSM地图</string>
+    <string name="osm_description">介绍如何替换高德底图,显示诸如osm之类的底图</string>
+</resources>

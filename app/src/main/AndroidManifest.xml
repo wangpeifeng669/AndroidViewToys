@@ -16,11 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".mapdraw.MapDrawActivity"
             android:label="@string/map_draw"
             android:screenOrientation="portrait" />
+        <activity
+            android:name=".basic.ScrollerTestActivity"
+            android:label="@string/scroller_test"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

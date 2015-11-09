@@ -1,8 +1,8 @@
 package com.peterwang.toys.basic;
 
+import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.widget.LinearLayout;
@@ -13,7 +13,7 @@ import android.widget.TextView;
  * @author peter_wang
  * @create-time 15/11/6 08:23
  */
-public class TouchTestActivity extends ActionBarActivity {
+public class TouchTestActivity extends Activity {
     public static final String TAG = TouchTestActivity.class.getSimpleName();
 
     @Override

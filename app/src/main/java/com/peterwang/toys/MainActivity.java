@@ -10,6 +10,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 
+import com.peterwang.toys.basic.ScrollerTestActivity;
 import com.peterwang.toys.main.FeatureView;
 import com.peterwang.toys.mapdraw.MapDrawActivity;
 
@@ -56,7 +57,9 @@ public final class MainActivity extends ListActivity {
 
     private static final DemoDetails[] DEMOS = {
             new DemoDetails(R.string.map_draw, R.string.map_draw_description,
-                    MapDrawActivity.class)
+                    MapDrawActivity.class),
+            new DemoDetails(R.string.scroller_test, R.string.scroller_test_description,
+                    ScrollerTestActivity.class)
     };
 
     @Override

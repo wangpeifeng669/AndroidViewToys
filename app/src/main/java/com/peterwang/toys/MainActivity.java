@@ -73,12 +73,6 @@ public final class MainActivity extends ListActivity {
     }
 
     @Override
-    public void onBackPressed() {
-        super.onBackPressed();
-        System.exit(0);
-    }
-
-    @Override
     protected void onListItemClick(ListView l, View v, int position, long id) {
         DemoDetails demo = (DemoDetails) getListAdapter().getItem(position);
         startActivity(new Intent(this.getApplicationContext(),

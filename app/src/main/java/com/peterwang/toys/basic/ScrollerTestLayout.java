@@ -2,7 +2,6 @@ package com.peterwang.toys.basic;
 
 import android.content.Context;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.MotionEvent;
 import android.view.ViewConfiguration;
 import android.widget.LinearLayout;
